@@ -1,2 +1,2 @@
-This Directory contains details of the first task on python.
-it wil involve some basic scriptiing and python codes
+This repository is used to store all the task related to python
+This tasks are parts of the requirements for ALX SE program.
